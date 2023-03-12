@@ -8,18 +8,20 @@
 <h3> Day 1 - 2/27/2023 </h3>
   <div>
   <h4> A. Basic git/GitHub </h4>
-    Learned how to add, remove, and rename files, directories
+    <p>Learned how to add, remove, and rename files, directories</p>
     <ul>
-      <li> touch, rm, and mv </li>
+      <li> touch - creates the file </li>
+      <li> rm - removes the file </li>
+      <li> mv - renames the file </li>
     </ul>
-    Learned how to add, commit, and push these updates
+    <p>Learned how to add, commit, and push these updates</p>
     <ul>
       <li> git add </li>
       <li> git commit -m "" </li>
       <li> git push origin main </li>
     </ul>
   <h4> B. HTML boilerplate. </h4>
-    Consists of the tags:
+    <p>Consists of the tags: </p>
     <ul>
       <li> DOCTYPE, declares what kind of document the file will be </li>
       <li> html, establishes the root element of the document, any element after is a descendant </li>
@@ -49,6 +51,18 @@
       <li> To create an unordered list use the ul tag </li>
       <li> To create an ordered list use the ol tag </li>
       <li> To create list items for lists use li tag </li>
+    </ul>
+  <h4> C. Links and Images </h4>
+    <ul>
+      <li> To create a link use the a tag </li>
+      <li> An attribute is additional info that describes or supports an html element. Typically has two parts a name and a value (however values aren't always needed.) </li>
+      <li> The attribute hat tells links where to go is the href attribute </li>
+      <li> A absolute link uses the protocol://domain/path </li>
+      <li> A relative link doesn't need the domain name </li>
+      <li> The element used to display an image is the img tag </li>
+      <li> The two attributes images always need is the src and alt attributes </li>
+      <li> To access a parent directory in a file path use ../ </li>
+      <li> The four main image formats on the web are jpg, gif, png, svg </li>
     </ul>
   </div>
 </div>
