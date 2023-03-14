@@ -1,4 +1,4 @@
-# road_to_full_stack
+# road-to-full-stack
 
 <div>
 <p> A collection of code throughout my coding journey as I begin once again at 0. Consider this as a journal. </p>
