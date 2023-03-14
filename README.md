@@ -20,6 +20,14 @@
       <li> git commit -m "" </li>
       <li> git push origin main </li>
     </ul>
+    <p>Learned how to create a repository</p>
+    <ul>
+      <li> git clone "insert remote SSH key" </li>
+    <ul>
+    <p> Other nifty tricks </p>
+    <ul>
+      <li> Typing in 'Code .' will open up VSC and the repo/directory I'm currently in. </li>
+    </ul>
   <h4> B. HTML boilerplate. </h4>
     <p>Consists of the tags: </p>
     <ul>
