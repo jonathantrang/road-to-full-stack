@@ -74,3 +74,18 @@
     </ul>
   </div>
 </div>
+
+<div>
+<h3> Day 3 - 3/15/2023 </h3>
+  <div>
+  <h4> A. When to Commit </h4>
+    <ul>
+      <li> Having well-writen commit messages and good commit history will: </li>
+      <ol>
+      <li> Help you and your team understand what edits were made </li>
+      <li> Give succinct information on where an issue may have occured </li>
+      </ol>
+      <li> Subject line commit messages should be 50 characters or less </li>
+    </ul>
+  </div>
+</div>
